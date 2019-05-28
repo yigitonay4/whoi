@@ -1,0 +1,69 @@
+
+Choose ONE of the HTML properties to edit and then change the CSS styles assigned to that property. Put your name in the comment next to the HTML element
+*/
+
+body{
+	background-color:#999999; 
+	font-family:Arial, Helvetica, sans-serif; 
+	}/* style by 
+	*/
+	
+.container {
+	background:#eeeeee;
+	border:2px solid #555555;
+	}/* style by 
+	*/
+	
+.header{
+	padding: 5px;
+	background:#cccccc;
+	
+}/* style by 
+	*/
+	
+.site-title{
+	color:#222222;
+	font-size:32px;
+}/* style by 
+	*/
+	
+a, a:link, a:visited{
+	color:#0033FF;
+	text-decoration:underline;
+	}/* style by 
+	*/
+	
+a:hover, a:active, a:focus { 
+	text-decoration: none;
+	color:#F00;
+	}/* style by 
+	*/
+	
+h2{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#444444;
+}/* style by 
+	*/
+
+h3{
+	font-family:"Comic Sans MS", cursive;
+	color:#555555;
+}/* style by 
+	*/
+
+p{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#4d4d4d4;
+}/* style by 
+	*/
+	
+.footer{
+	border-top:3px solid #111111;
+	color:#a1a1a1;
+}/* style by 
+	*/
+	
+	ul li{
+		list-style-type:circle;
+		margin-left:40px;
+	}
